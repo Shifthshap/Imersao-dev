@@ -1,0 +1,973 @@
+[
+  {
+    "nome": "A Filha do Capitão",
+    "autor": "Alexander Pushkin",
+    "descricao": "Um romance histórico ambientado durante a revolta de Pugachev no século XVIII, explorando temas de honra e amor.",
+    "ano": "1836",
+    "link": "https://pt.wikipedia.org/wiki/Alexandre_Pushkin",
+    "tags": [
+      "Romance Histórico",
+      "Prosa",
+      "Era de Ouro",
+      "Revolta"
+    ]
+  },
+  {
+    "nome": "Um Herói do Nosso Tempo",
+    "autor": "Mikhail Lermontov",
+    "descricao": "Uma coleção de contos interligados centrados em Grigori Pechorin, um anti-herói cínico e melancólico, personificando a juventude desiludida da época.",
+    "ano": "1840",
+    "link": "https://pt.wikipedia.org/wiki/Mikhail_Lermontov",
+    "tags": [
+      "Romance Psicológico",
+      "Era de Ouro",
+      "Anti-Herói",
+      "Cáucaso"
+    ]
+  },
+  {
+    "nome": "Almas Mortas",
+    "autor": "Nikolai Gogol",
+    "descricao": "Uma sátira épica da Rússia feudal, na qual o protagonista Chichikov viaja comprando os 'nomes' dos servos mortos para obter riqueza ilícita.",
+    "ano": "1842",
+    "link": "https://pt.wikipedia.org/wiki/Nikolai_Gogol",
+    "tags": [
+      "Sátira",
+      "Novela em Verso",
+      "Era de Ouro",
+      "Realismo"
+    ]
+  },
+  {
+    "nome": "Pais e Filhos",
+    "autor": "Ivan Turguêniev",
+    "descricao": "Um romance que explora o conflito geracional e as tensões ideológicas na Rússia, introduzindo o personagem niilista Bazarov.",
+    "ano": "1862",
+    "link": "https://pt.wikipedia.org/wiki/Ivan_Turguêniev",
+    "tags": [
+      "Romance Social",
+      "Era de Ouro",
+      "Niilismo",
+      "Drama Familiar"
+    ]
+  },
+  {
+    "nome": "O Idiota",
+    "autor": "Fiódor Dostoiévski",
+    "descricao": "A história do Príncipe Myshkin, um homem puro e 'positivamente bom' que tenta viver na complexa sociedade de São Petersburgo, mas é incompreendido e destruído por ela.",
+    "ano": "1869",
+    "link": "https://pt.wikipedia.org/wiki/Fiódor_Dostoiévski",
+    "tags": [
+      "Romance Filosófico",
+      "Era de Ouro",
+      "Tragédia",
+      "Moralidade"
+    ]
+  },
+  {
+    "nome": "Anna Karenina",
+    "autor": "Liev Tolstói",
+    "descricao": "Um romance épico que traça o caso de amor adúltero de Anna, contrastado com a vida familiar de Levin e explorando temas de fé, sociedade e casamento.",
+    "ano": "1877",
+    "link": "https://pt.wikipedia.org/wiki/Liev_Tolstói",
+    "tags": [
+      "Romance",
+      "Era de Ouro",
+      "Tragédia",
+      "Sociedade"
+    ]
+  },
+  {
+    "nome": "Oblomov",
+    "autor": "Ivan Goncharov",
+    "descricao": "Um romance sobre Ilya Oblomov, um nobre que passa a maior parte de sua vida na cama, personificando a inércia e a indolência da aristocracia russa.",
+    "ano": "1859",
+    "link": "https://pt.wikipedia.org/wiki/Ivan_Goncharov",
+    "tags": [
+      "Romance Social",
+      "Era de Ouro",
+      "Preguiça",
+      "Sátira Social"
+    ]
+  },
+  {
+    "nome": "A Gaivota",
+    "autor": "Anton Tchekhov",
+    "descricao": "Uma peça de teatro que retrata a vida monótona e os conflitos artísticos e românticos em uma propriedade rural, sendo um marco na dramaturgia moderna.",
+    "ano": "1896",
+    "link": "https://pt.wikipedia.org/wiki/Anton_Tchekhov",
+    "tags": [
+      "Teatro",
+      "Drama",
+      "Era de Prata",
+      "Vida Rural"
+    ]
+  },
+  {
+    "nome": "O Cavaleiro de Bronze",
+    "autor": "Alexander Pushkin",
+    "descricao": "Um poema narrativo que contrapõe o destino do humilde funcionário Evgeni contra a fundação majestosa, mas impiedosa, de São Petersburgo pelo Czar Pedro, o Grande.",
+    "ano": "1833",
+    "link": "https://pt.wikipedia.org/wiki/Alexandre_Pushkin",
+    "tags": [
+      "Poema Narrativo",
+      "Era de Ouro",
+      "Lenda Urbana",
+      "Conflito"
+    ]
+  },
+  {
+    "nome": "A Dama do Cachorrinho",
+    "autor": "Anton Tchekhov",
+    "descricao": "Um dos contos mais famosos de Tchekhov, descrevendo um caso de amor inesperado e profundo entre Dmitri Gurov e Anna Sergueievna em Ialta.",
+    "ano": "1899",
+    "link": "https://pt.wikipedia.org/wiki/Anton_Tchekhov",
+    "tags": [
+      "Conto",
+      "Era de Prata",
+      "Romance",
+      "Realismo Psicológico"
+    ]
+  },
+  {
+    "nome": "O Mestre e Margarita",
+    "autor": "Mikhail Bulgakov",
+    "descricao": "Um romance que mistura sátira social, fantasia, e o mito de Fausto, narrando a visita do Diabo à Moscou ateia na década de 1930.",
+    "ano": "1966",
+    "link": "https://pt.wikipedia.org/wiki/Mikhail_Bulgakov",
+    "tags": [
+      "Ficção Fantástica",
+      "Sátira",
+      "Realismo Mágico",
+      "Era de Prata (influência)"
+    ]
+  },
+  {
+    "nome": "Petersburgo",
+    "autor": "Andrei Bely",
+    "descricao": "Um romance fundamental do Simbolismo russo, caracterizado por sua prosa experimental e focado em um complô terrorista na capital imperial.",
+    "ano": "1913",
+    "link": "https://pt.wikipedia.org/wiki/Andrei_Bely",
+    "tags": [
+      "Simbolismo",
+      "Modernismo",
+      "Era de Prata",
+      "Prosa Experimental"
+    ]
+  },
+  {
+    "nome": "Os Doze",
+    "autor": "Aleksandr Blok",
+    "descricao": "Um longo poema escrito logo após a Revolução de Outubro, retratando doze soldados bolcheviques marchando pelas ruas de Petersburgo em meio a uma nevasca.",
+    "ano": "1918",
+    "link": "https://pt.wikipedia.org/wiki/Aleksandr_Blok",
+    "tags": [
+      "Poesia",
+      "Simbolismo",
+      "Revolução",
+      "Era de Prata"
+    ]
+  },
+  {
+    "nome": "O Demônio Mesquinho",
+    "autor": "Fyodor Sologub",
+    "descricao": "Um romance decadente e sombrio sobre o professor Peredonov, cuja paranóia e maldade se manifestam numa criatura imaginária, o Nedotykomka.",
+    "ano": "1907",
+    "link": "https://en.wikipedia.org/wiki/Fyodor_Sologub",
+    "tags": [
+      "Decadentismo",
+      "Era de Prata",
+      "Terror Psicológico",
+      "Província"
+    ]
+  },
+  {
+    "nome": "O Bracelete de Granada",
+    "autor": "Alexander Kuprin",
+    "descricao": "Uma novela tocante sobre um humilde funcionário que nutre um amor desesperado e não correspondido por uma mulher casada da alta sociedade, simbolizado por um bracelete de granada.",
+    "ano": "1911",
+    "link": "https://pt.wikipedia.org/wiki/Aleksandr_Kuprin",
+    "tags": [
+      "Novela",
+      "Era de Prata",
+      "Amor Não Correspondido",
+      "Lirismo"
+    ]
+  },
+  {
+    "nome": "Insolação (Sunstroke)",
+    "autor": "Ivan Bunin",
+    "descricao": "Um conto que descreve um encontro fugaz e intenso entre um oficial e uma mulher casada durante uma parada de barco, explorando a natureza efêmera da paixão.",
+    "ano": "1925",
+    "link": "https://pt.wikipedia.org/wiki/Ivan_Bunin",
+    "tags": [
+      "Conto",
+      "Prosa",
+      "Era de Prata",
+      "Exílio"
+    ]
+  },
+  {
+    "nome": "Tio Vânia",
+    "autor": "Anton Tchekhov",
+    "descricao": "Uma peça que explora a frustração e as vidas desperdiçadas de personagens presos em uma propriedade rural, lidando com o amor não correspondido e a falta de propósito.",
+    "ano": "1897",
+    "link": "https://pt.wikipedia.org/wiki/Anton_Tchekhov",
+    "tags": [
+      "Teatro",
+      "Drama",
+      "Era de Prata",
+      "Tédio Existencial"
+    ]
+  },
+  {
+    "nome": "Hadji Murad",
+    "autor": "Liev Tolstói",
+    "descricao": "Uma novela póstuma ambientada durante a Guerra do Cáucaso, focada em um líder rebelde checheno que muda de lado para se vingar de um rival.",
+    "ano": "1912",
+    "link": "https://pt.wikipedia.org/wiki/Liev_Tolstói",
+    "tags": [
+      "Novela",
+      "Era de Ouro",
+      "Guerra",
+      "Cáucaso"
+    ]
+  },
+  {
+    "nome": "Notas do Subsolo",
+    "autor": "Fiódor Dostoiévski",
+    "descricao": "Considerada a primeira novela existencialista, apresenta as divagações de um narrador recluso e amargo sobre a natureza humana e a racionalidade.",
+    "ano": "1864",
+    "link": "https://pt.wikipedia.org/wiki/Fiódor_Dostoiévski",
+    "tags": [
+      "Novela",
+      "Era de Ouro",
+      "Existencialismo",
+      "Filosofia"
+    ]
+  },
+  {
+    "nome": "O Nariz",
+    "autor": "Nikolai Gogol",
+    "descricao": "Um conto absurdo e satírico onde um funcionário acorda e descobre que seu nariz desapareceu, apenas para encontrá-lo circulando por São Petersburgo vestido de alto funcionário.",
+    "ano": "1835",
+    "link": "https://pt.wikipedia.org/wiki/Nikolai_Gogol",
+    "tags": [
+      "Conto",
+      "Absurdo",
+      "Era de Ouro",
+      "Sátira Burocrática"
+    ]
+  },
+  {
+    "nome": "Memórias de um Caçador",
+    "autor": "Ivan Turguêniev",
+    "descricao": "Uma coleção de contos que oferece um retrato melancólico da vida camponesa e da natureza na Rússia, sendo essencial para o desenvolvimento do realismo social.",
+    "ano": "1852",
+    "link": "https://pt.wikipedia.org/wiki/Ivan_Turguêniev",
+    "tags": [
+      "Contos",
+      "Era de Ouro",
+      "Realismo",
+      "Vida Camponesa"
+    ]
+  },
+  {
+    "nome": "O Monge Negro",
+    "autor": "Anton Tchekhov",
+    "descricao": "Uma história sombria sobre um estudioso que começa a ter alucinações de um monge preto que o convence de sua genialidade, explorando a fronteira entre a sanidade e a loucura.",
+    "ano": "1894",
+    "link": "https://pt.wikipedia.org/wiki/Anton_Tchekhov",
+    "tags": [
+      "Conto",
+      "Psicologia",
+      "Era de Prata",
+      "Saúde Mental"
+    ]
+  },
+  {
+    "nome": "O Presente",
+    "autor": "Vladimir Nabokov",
+    "descricao": "O último romance escrito por Nabokov em russo, narrando a vida de um jovem poeta e escritor russo exilado em Berlim, e sua busca por uma voz artística.",
+    "ano": "1938",
+    "link": "https://pt.wikipedia.org/wiki/Vladimir_Nabokov",
+    "tags": [
+      "Metaficção",
+      "Exílio",
+      "Era de Prata (influência)",
+      "Romance Artístico"
+    ]
+  },
+  {
+    "nome": "Réquiem",
+    "autor": "Anna Akhmatova",
+    "descricao": "Um ciclo de poemas líricos poderosos que documentam o terror stalinista na década de 1930, especificamente os anos em que seu filho e marido estavam presos.",
+    "ano": "1963",
+    "link": "https://pt.wikipedia.org/wiki/Anna_Akhmatova",
+    "tags": [
+      "Poesia Lírica",
+      "Era de Prata",
+      "Memória",
+      "Stalinismo"
+    ]
+  },
+  {
+    "nome": "Eugene Oneguin",
+    "autor": "Alexander Pushkin",
+    "descricao": "Um 'romance em verso' que se tornou um pilar da literatura russa, apresentando o arquétipo do 'homem supérfluo' (Oneguin) e o amor não correspondido de Tatyana.",
+    "ano": "1833",
+    "link": "https://pt.wikipedia.org/wiki/Alexandre_Pushkin",
+    "tags": [
+      "Romance em Verso",
+      "Era de Ouro",
+      "Drama",
+      "Homem Supérfluo"
+    ]
+  },
+  {
+    "nome": "Guerra e Paz",
+    "autor": "Liev Tolstói",
+    "descricao": "Um romance épico que traça a vida de cinco famílias aristocráticas russas durante a era napoleônica, explorando temas de guerra, paz, amor e destino.",
+    "ano": "1869",
+    "link": "https://pt.wikipedia.org/wiki/Liev_Tolstói",
+    "tags": [
+      "Romance Épico",
+      "Ficção Histórica",
+      "Era de Ouro",
+      "Guerra Napoleônica"
+    ]
+  },
+  {
+    "nome": "Crime e Castigo",
+    "autor": "Fiódor Dostoiévski",
+    "descricao": "A história de Raskólnikov, um ex-estudante pobre em São Petersburgo que comete um assassinato planejado e enfrenta as consequências morais e psicológicas de seu ato.",
+    "ano": "1866",
+    "link": "https://pt.wikipedia.org/wiki/Fiódor_Dostoiévski",
+    "tags": [
+      "Romance Psicológico",
+      "Filosofia",
+      "Drama",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "Os Irmãos Karamazov",
+    "autor": "Fiódor Dostoiévski",
+    "descricao": "Um complexo romance filosófico que narra a história de uma família desfuncional, explorando questões profundas sobre fé, dúvida, livre arbítrio e moralidade.",
+    "ano": "1880",
+    "link": "https://pt.wikipedia.org/wiki/Fiódor_Dostoiévski",
+    "tags": [
+      "Romance Filosófico",
+      "Tragédia",
+      "Metafísica",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "O Jardim das Cerejeiras",
+    "autor": "Anton Tchekhov",
+    "descricao": "A última peça de Chekhov, retratando a futilidade da aristocracia russa na virada do século e a inevitabilidade da mudança social através da venda de uma propriedade amada.",
+    "ano": "1904",
+    "link": "https://pt.wikipedia.org/wiki/Anton_Tchekhov",
+    "tags": [
+      "Teatro",
+      "Drama",
+      "Era de Prata",
+      "Tragicômico"
+    ]
+  },
+  {
+    "nome": "As Três Irmãs",
+    "autor": "Anton Tchekhov",
+    "descricao": "Peça que segue a vida das irmãs Prózorov, que anseiam por retornar a Moscou em busca de felicidade, mas enfrentam a monotonia e a desilusão da vida provincial.",
+    "ano": "1901",
+    "link": "https://pt.wikipedia.org/wiki/Anton_Tchekhov",
+    "tags": [
+      "Teatro",
+      "Drama Psicológico",
+      "Era de Prata",
+      "Melancolia"
+    ]
+  },
+  {
+    "nome": "Na Véspera",
+    "autor": "Ivan Turguêniev",
+    "descricao": "Um romance que aborda o despertar político e social na Rússia pré-revolucionária, centrado na jovem Elena Nikolaevna e sua busca por um herói ideal.",
+    "ano": "1860",
+    "link": "https://pt.wikipedia.org/wiki/Ivan_Turguêniev",
+    "tags": [
+      "Romance Social",
+      "Realismo",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "Os Demônios",
+    "autor": "Fiódor Dostoiévski",
+    "descricao": "Uma sátira e crítica profética ao niilismo e ao radicalismo revolucionário na Rússia do século XIX, inspirado em eventos terroristas reais.",
+    "ano": "1872",
+    "link": "https://pt.wikipedia.org/wiki/Fiódor_Dostoiévski",
+    "tags": [
+      "Romance Político",
+      "Sátira",
+      "Era de Ouro",
+      "Profético"
+    ]
+  },
+  {
+    "nome": "Recordações da Casa dos Mortos",
+    "autor": "Fiódor Dostoiévski",
+    "descricao": "Uma obra semificcional baseada nas experiências de Dostoiévski durante seus quatro anos de prisão em um campo de trabalhos forçados na Sibéria.",
+    "ano": "1862",
+    "link": "https://pt.wikipedia.org/wiki/Fiódor_Dostoiévski",
+    "tags": [
+      "Memórias",
+      "Prisão",
+      "Não-Ficção",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "A Tempestade",
+    "autor": "Alexander Ostrovsky",
+    "descricao": "Drama social que se passa em uma pequena cidade russa, focado em Katerina Kabanova e sua luta contra as rígidas convenções morais e a tirania de sua sogra.",
+    "ano": "1859",
+    "link": "https://pt.wikipedia.org/wiki/Alexandre_Ostrovski",
+    "tags": [
+      "Teatro",
+      "Drama Social",
+      "Realismo",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "Que Desgraça Ser Inteligente",
+    "autor": "Alexander Griboyedov",
+    "descricao": "Uma comédia em verso que satiriza a sociedade aristocrática moscovita no início do século XIX, criticando a superficialidade e a imitação das modas estrangeiras.",
+    "ano": "1825",
+    "link": "https://pt.wikipedia.org/wiki/Alexandre_Griboiedov",
+    "tags": [
+      "Comédia em Verso",
+      "Sátira Social",
+      "Teatro",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "O Capote",
+    "autor": "Nikolai Gogol",
+    "descricao": "Um dos contos mais famosos da literatura russa, sobre um humilde escriturário em São Petersburgo cuja vida gira em torno da aquisição de um novo capote.",
+    "ano": "1842",
+    "link": "https://pt.wikipedia.org/wiki/Nikolai_Gogol",
+    "tags": [
+      "Conto",
+      "Realismo Fantástico",
+      "Era de Ouro",
+      "Crítica Social"
+    ]
+  },
+  {
+    "nome": "Taras Bulba",
+    "autor": "Nikolai Gogol",
+    "descricao": "Novela histórica que glorifica a vida dos cossacos ucranianos e sua luta pela independência contra a Polônia no século XVII.",
+    "ano": "1835",
+    "link": "https://pt.wikipedia.org/wiki/Nikolai_Gogol",
+    "tags": [
+      "Novela Histórica",
+      "Nacionalismo",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "A Dama de Espadas",
+    "autor": "Alexander Pushkin",
+    "descricao": "Uma novela curta sobre um oficial de engenharia que fica obcecado em aprender o segredo de uma condessa para ganhar no jogo de cartas, com resultados trágicos.",
+    "ano": "1834",
+    "link": "https://pt.wikipedia.org/wiki/Alexandre_Pushkin",
+    "tags": [
+      "Novela",
+      "Mistério",
+      "Romance",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "Borís Godunov",
+    "autor": "Alexander Pushkin",
+    "descricao": "Um drama histórico em verso, inspirado em Shakespeare, que lida com o reinado e a culpa do czar Borís Godunov após ascender ao trono pelo assassinato.",
+    "ano": "1831",
+    "link": "https://pt.wikipedia.org/wiki/Alexandre_Pushkin",
+    "tags": [
+      "Drama Histórico",
+      "Teatro em Verso",
+      "Tragédia",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "O Abrigo Noturno",
+    "autor": "Maxim Gorky",
+    "descricao": "Uma peça naturalista que retrata a vida brutal e desesperada de moradores de rua e desajustados sociais em um porão de Moscou, explorando a natureza da verdade e da ilusão.",
+    "ano": "1902",
+    "link": "https://pt.wikipedia.org/wiki/Máximo_Gorki",
+    "tags": [
+      "Teatro",
+      "Realismo Social",
+      "Era de Prata",
+      "Drama"
+    ]
+  },
+  {
+    "nome": "A Guarda Branca",
+    "autor": "Mikhail Bulgakov",
+    "descricao": "Um romance semiautobiográfico ambientado em Kiev durante a Guerra Civil Russa, focando na família Turbin e sua lealdade conflituosa.",
+    "ano": "1925",
+    "link": "https://pt.wikipedia.org/wiki/Mikhail_Bulgakov",
+    "tags": [
+      "Romance",
+      "Guerra Civil Russa",
+      "Era de Prata",
+      "Ficção Histórica"
+    ]
+  },
+  {
+    "nome": "Os Citas",
+    "autor": "Aleksandr Blok",
+    "descricao": "Um dos poemas mais influentes da Era de Prata, escrito após a Revolução de 1917, alertando o Ocidente sobre a natureza bárbara e imprevisível da Rússia.",
+    "ano": "1918",
+    "link": "https://pt.wikipedia.org/wiki/Aleksandr_Blok",
+    "tags": [
+      "Poesia",
+      "Simbolismo",
+      "Era de Prata",
+      "Alarme Político"
+    ]
+  },
+  {
+    "nome": "A Vida de Arsêniev",
+    "autor": "Ivan Bunin",
+    "descricao": "Uma obra de prosa lírica e autobiográfica que descreve a infância e juventude do protagonista na província russa, capturando a beleza fugaz da velha Rússia.",
+    "ano": "1930",
+    "link": "https://pt.wikipedia.org/wiki/Ivan_Bunin",
+    "tags": [
+      "Romance Autobiográfico",
+      "Prosa Lírica",
+      "Era de Prata",
+      "Memórias"
+    ]
+  },
+  {
+    "nome": "Doutor Jivago",
+    "autor": "Boris Pasternak",
+    "descricao": "Um épico romântico ambientado nas décadas turbulentas da Revolução Russa, seguindo o médico e poeta Iúri Jivago em sua busca por amor e significado em meio ao caos.",
+    "ano": "1957",
+    "link": "https://pt.wikipedia.org/wiki/Boris_Pasternak",
+    "tags": [
+      "Romance Lírico",
+      "Revolução",
+      "Épico",
+      "Era de Prata"
+    ]
+  },
+  {
+    "nome": "Nós",
+    "autor": "Yevgeny Zamyatin",
+    "descricao": "Um romance distópico seminal que influenciou 'Admirável Mundo Novo' e '1984', ambientado em um futuro totalitário onde a individualidade é suprimida.",
+    "ano": "1924",
+    "link": "https://pt.wikipedia.org/wiki/Yevgeny_Zamyatin",
+    "tags": [
+      "Ficção Científica",
+      "Distopia",
+      "Era de Prata",
+      "Crítica Social"
+    ]
+  },
+  {
+    "nome": "Primeiro Amor",
+    "autor": "Ivan Turguêniev",
+    "descricao": "Uma novela intensa e lírica contada em retrospectiva, detalhando a paixão juvenil de um adolescente por uma vizinha mais velha e as dolorosas realidades do despertar emocional.",
+    "ano": "1860",
+    "link": "https://pt.wikipedia.org/wiki/Ivan_Turguêniev",
+    "tags": [
+      "Novela",
+      "Romance",
+      "Drama",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "Infância, Adolescência, Juventude",
+    "autor": "Liev Tolstói",
+    "descricao": "Uma trilogia autobiográfica fictícia que detalha a jornada de Nikolenka Irteniev desde a inocência infantil até o limiar da idade adulta, explorando o desenvolvimento moral.",
+    "ano": "1857",
+    "link": "https://pt.wikipedia.org/wiki/Liev_Tolstói",
+    "tags": [
+      "Autobiografia",
+      "Trilogia",
+      "Era de Ouro",
+      "Bildungsroman"
+    ]
+  },
+  {
+    "nome": "Sonata a Kreutzer",
+    "autor": "Liev Tolstói",
+    "descricao": "Uma novela controversa que aborda o ciúme patológico, o casamento, a sexualidade e a hipocrisia social, culminando em um assassinato passional.",
+    "ano": "1889",
+    "link": "https://pt.wikipedia.org/wiki/Liev_Tolstói",
+    "tags": [
+      "Novela",
+      "Drama",
+      "Moralidade",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "Enfermaria N° 6",
+    "autor": "Anton Tchekhov",
+    "descricao": "Um conto longo que examina a complacência e o sofrimento humano através da história de um médico que se encontra internado na ala psiquiátrica de seu próprio hospital.",
+    "ano": "1892",
+    "link": "https://pt.wikipedia.org/wiki/Anton_Tchekhov",
+    "tags": [
+      "Conto Longo",
+      "Crítica Social",
+      "Filosofia",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "As Pequenas Tragédias",
+    "autor": "Alexander Pushkin",
+    "descricao": "Uma coleção de quatro peças curtas e intensas em verso dramático ('O Convidado de Pedra', 'Mozart e Salieri', 'O Cavaleiro Avarento' e 'Festa durante a Peste').",
+    "ano": "1830",
+    "link": "https://pt.wikipedia.org/wiki/Alexandre_Pushkin",
+    "tags": [
+      "Teatro em Verso",
+      "Drama",
+      "Era de Ouro",
+      "Coleção"
+    ]
+  },
+  {
+    "nome": "O Conto do Czar Saltan",
+    "autor": "Alexander Pushkin",
+    "descricao": "Um conto de fadas em verso que narra a história do Czar Saltan, seu filho Gvidon e a mágica Princesa Cisne, focado em temas de inveja e redenção.",
+    "ano": "1831",
+    "link": "https://pt.wikipedia.org/wiki/Alexandre_Pushkin",
+    "tags": [
+      "Poema Épico",
+      "Conto de Fadas",
+      "Era de Ouro",
+      "Folclore"
+    ]
+  },
+  {
+    "nome": "Mascarada",
+    "autor": "Mikhail Lermontov",
+    "descricao": "Um drama em verso que explora a inveja, o ciúme e a tragédia em São Petersburgo aristocrática, culminando em um envenenamento fatal durante um baile de máscaras.",
+    "ano": "1835",
+    "link": "https://pt.wikipedia.org/wiki/Mikhail_Lermontov",
+    "tags": [
+      "Drama",
+      "Poesia",
+      "Tragédia",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "O Inspetor Geral",
+    "autor": "Nikolai Gogol",
+    "descricao": "Uma comédia satírica clássica sobre uma pequena cidade russa aterrorizada pela notícia da chegada de um inspetor do governo. O pânico leva à confusão de identidades e suborno generalizado.",
+    "ano": "1836",
+    "link": "https://pt.wikipedia.org/wiki/Nikolai_Gogol",
+    "tags": [
+      "Comédia",
+      "Sátira",
+      "Teatro",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "Rudin",
+    "autor": "Ivan Turguêniev",
+    "descricao": "O primeiro grande romance de Turgenev, centrado em Dmitry Rudin, um intelectual eloquente, mas ineficaz, que personifica o arquétipo do 'homem supérfluo' russo.",
+    "ano": "1856",
+    "link": "https://pt.wikipedia.org/wiki/Ivan_Turguêniev",
+    "tags": [
+      "Romance",
+      "Realismo",
+      "Filosofia",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "A Felicidade Conjugal",
+    "autor": "Liev Tolstói",
+    "descricao": "Uma novela que segue a história de Masha, que se casa com um homem mais velho e descobre que a felicidade no casamento difere muito de suas idealizações românticas juvenis.",
+    "ano": "1859",
+    "link": "https://pt.wikipedia.org/wiki/Liev_Tolstói",
+    "tags": [
+      "Novela",
+      "Romance",
+      "Psicologia",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "O Jogador",
+    "autor": "Fiódor Dostoiévski",
+    "descricao": "Um romance escrito às pressas para pagar dívidas de jogo, focado no tutor Alexei Ivanovich, que se torna irremediavelmente viciado na roleta na cidade fictícia de Roulettenburg.",
+    "ano": "1866",
+    "link": "https://pt.wikipedia.org/wiki/Fiódor_Dostoiévski",
+    "tags": [
+      "Romance",
+      "Psicologia",
+      "Vício",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "A História de Uma Cidade",
+    "autor": "Mikhail Saltykov-Shchedrin",
+    "descricao": "Uma sátira farsesca e alegórica da história russa. A obra narra a crônica da cidade de Foolov e seus sucessivos prefeitos absurdos e tirânicos.",
+    "ano": "1870",
+    "link": "https://pt.wikipedia.org/wiki/Mikhail_Saltykov-Shchedrin",
+    "tags": [
+      "Sátira",
+      "Alegoria",
+      "Crítica Social",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "Lady Macbeth do Distrito de Mtsensk",
+    "autor": "Nikolai Leskov",
+    "descricao": "Uma novela trágica sobre Katerina Izmailova, uma mulher entediada que se envolve em adultério e comete uma série de crimes passionais para libertar-se da opressão patriarcal.",
+    "ano": "1865",
+    "link": "https://pt.wikipedia.org/wiki/Nikolai_Leskov",
+    "tags": [
+      "Novela",
+      "Tragédia",
+      "Realismo",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "O Precipício",
+    "autor": "Ivan Goncharov",
+    "descricao": "O romance final de Goncharov, que trata das tensões entre a velha aristocracia russa e a nova geração de niilistas e radicais, ambientado em uma propriedade rural.",
+    "ano": "1869",
+    "link": "https://pt.wikipedia.org/wiki/Ivan_Goncharov",
+    "tags": [
+      "Romance",
+      "Conflito de Gerações",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "Quem Vive Feliz na Rússia?",
+    "autor": "Nikolai Nekrasov",
+    "descricao": "Um poema épico inacabado que relata a jornada de sete camponeses em busca de alguém que viva de forma feliz e livre na Rússia pós-emancipação.",
+    "ano": "1877",
+    "link": "https://pt.wikipedia.org/wiki/Nikolai_Nekrasov",
+    "tags": [
+      "Poema Épico",
+      "Realismo",
+      "Crítica Social",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "A Noiva sem Dote",
+    "autor": "Alexander Ostrovsky",
+    "descricao": "Uma peça dramática sobre Larisa, uma jovem que, devido à falta de dote, é forçada a navegar as expectativas sociais e os jogos de poder dos homens ricos e insensíveis.",
+    "ano": "1878",
+    "link": "https://pt.wikipedia.org/wiki/Alexandre_Ostrovski",
+    "tags": [
+      "Drama",
+      "Teatro",
+      "Realismo",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "Ivanov",
+    "autor": "Anton Tchekhov",
+    "descricao": "Uma peça precoce de Chekhov que examina o tédio e a apatia de Nikolai Ivanov, um homem da pequena nobreza rural que luta contra a depressão e o fracasso existencial.",
+    "ano": "1887",
+    "link": "https://pt.wikipedia.org/wiki/Anton_Tchekhov",
+    "tags": [
+      "Drama",
+      "Teatro",
+      "Transição",
+      "Era de Ouro"
+    ]
+  },
+  {
+    "nome": "Vésperas (Vecher)",
+    "autor": "Anna Akhmatova",
+    "descricao": "A primeira coleção de poesia de Akhmatova, caracterizada por lirismo íntimo, simplicidade formal e um foco em temas de amor, memória e melancolia.",
+    "ano": "1912",
+    "link": "https://pt.wikipedia.org/wiki/Anna_Akhmatova",
+    "tags": [
+      "Poesia Lírica",
+      "Acmeísmo",
+      "Era de Prata"
+    ]
+  },
+  {
+    "nome": "Pedra (Kamen)",
+    "autor": "Osip Mandelstam",
+    "descricao": "Coleção de poemas que marcou a estreia do autor. A obra é fundamental para o movimento Acmeísta, celebrando a clareza, a materialidade e a arquitetura da palavra.",
+    "ano": "1913",
+    "link": "https://pt.wikipedia.org/wiki/Osip_Mandelstam",
+    "tags": [
+      "Poesia",
+      "Acmeísmo",
+      "Era de Prata",
+      "Simbolismo"
+    ]
+  },
+  {
+    "nome": "A Nuvem de Calças",
+    "autor": "Vladimir Mayakovsky",
+    "descricao": "Um poema épico audacioso e futurista que serve como manifesto contra a poesia tradicional, apresentando quatro gritos principais: 'Abaixo o seu amor!', 'Abaixo a sua arte!', 'Abaixo o seu regime!', 'Abaixo a sua religião!'",
+    "ano": "1915",
+    "link": "https://pt.wikipedia.org/wiki/Vladimir_Maiakovski",
+    "tags": [
+      "Poesia",
+      "Futurismo",
+      "Vanguarda",
+      "Era de Prata"
+    ]
+  },
+  {
+    "nome": "O Poço (Yama)",
+    "autor": "Alexander Kuprin",
+    "descricao": "Um romance controverso que oferece um olhar implacável e detalhado sobre a vida das prostitutas em um bordel de Odessa, abordando a corrupção e a miséria social.",
+    "ano": "1915",
+    "link": "https://pt.wikipedia.org/wiki/Aleksandr_Kuprin",
+    "tags": [
+      "Romance",
+      "Realismo Social",
+      "Era de Prata",
+      "Prostituição"
+    ]
+  },
+  {
+    "nome": "A História dos Sete Enforcados",
+    "autor": "Leonid Andreiev",
+    "descricao": "Uma novela psicológica profunda que acompanha os últimos dias e as reflexões internas de cinco revolucionários, um camponês e um assassino, condenados à execução.",
+    "ano": "1908",
+    "link": "https://pt.wikipedia.org/wiki/Leonid_Andreiev",
+    "tags": [
+      "Novela",
+      "Psicologia",
+      "Existencialismo",
+      "Era de Prata"
+    ]
+  },
+  {
+    "nome": "O Pombo de Prata",
+    "autor": "Andrei Bely",
+    "descricao": "Um romance simbolista que explora a atração fatal entre um intelectual da cidade e o misticismo sombrio das seitas religiosas camponesas russas, um precursor de 'Petersburgo'.",
+    "ano": "1909",
+    "link": "https://pt.wikipedia.org/wiki/Andrei_Bely",
+    "tags": [
+      "Romance",
+      "Simbolismo",
+      "Misticismo",
+      "Era de Prata"
+    ]
+  },
+  {
+    "nome": "A Bela Dama",
+    "autor": "Aleksandr Blok",
+    "descricao": "Coleção seminal da poesia simbolista russa. A obra é dominada pela figura mística da 'Dama Perfeita' ou 'Eterna Feminilidade', inspirada na filosofia de Vladimir Solovyov.",
+    "ano": "1904",
+    "link": "https://pt.wikipedia.org/wiki/Aleksandr_Blok",
+    "tags": [
+      "Poesia",
+      "Simbolismo",
+      "Misticismo",
+      "Era de Prata"
+    ]
+  },
+  {
+    "nome": "Os Pequenos Burgueses (Meshchane)",
+    "autor": "Maxim Gorky",
+    "descricao": "Uma das primeiras peças de Gorky, que examina o conflito de gerações e ideologias dentro de uma família de pequenos burgueses, criticando a estagnação da classe média russa.",
+    "ano": "1901",
+    "link": "https://pt.wikipedia.org/wiki/Máximo_Gorki",
+    "tags": [
+      "Drama",
+      "Realismo Social",
+      "Era de Prata",
+      "Teatro"
+    ]
+  },
+  {
+    "nome": "O Povo da Aldeia (Derevnya)",
+    "autor": "Ivan Bunin",
+    "descricao": "Uma novela sombria e desidealizada que oferece um retrato brutal e realista da vida camponesa na Rússia, contrastando com as visões nostálgicas da intelligentsia.",
+    "ano": "1910",
+    "link": "https://pt.wikipedia.org/wiki/Ivan_Bunin",
+    "tags": [
+      "Novela",
+      "Realismo",
+      "Era de Prata",
+      "Vida Rural"
+    ]
+  },
+  {
+    "nome": "A Tenda",
+    "autor": "Nikolai Gumilev",
+    "descricao": "Coleção de poemas que reflete as viagens de Gumilev à África. A obra é marcada por imagens exóticas, aventureiras e um estilo acmeísta claro e visual.",
+    "ano": "1921",
+    "link": "https://pt.wikipedia.org/wiki/Nikolai_Gumilev",
+    "tags": [
+      "Poesia",
+      "Acmeísmo",
+      "Era de Prata",
+      "Aventura"
+    ]
+  },
+  {
+    "nome": "Minha Irmã, a Vida",
+    "autor": "Boris Pasternak",
+    "descricao": "Uma coleção de poemas líricos escritos em 1917, famosa por seu estilo inovador, metáforas vívidas e celebração da natureza e da vida em meio ao caos político.",
+    "ano": "1922",
+    "link": "https://pt.wikipedia.org/wiki/Boris_Pasternak",
+    "tags": [
+      "Poesia Lírica",
+      "Futurismo",
+      "Era de Prata",
+      "Vanguarda"
+    ]
+  },
+  {
+    "nome": "A Caverna",
+    "autor": "Yevgeny Zamyatin",
+    "descricao": "Um conto expressionista e apocalíptico que retrata a vida em Petrogrado durante o inverno pós-revolucionário, onde a civilização regrediu a um estado primitivo e brutal.",
+    "ano": "1920",
+    "link": "https://pt.wikipedia.org/wiki/Yevgeny_Zamyatin",
+    "tags": [
+      "Conto",
+      "Expressionismo",
+      "Era de Prata",
+      "Distopia"
+    ]
+  },
+  {
+    "nome": "Vamos Ser Como o Sol",
+    "autor": "Konstantin Balmont",
+    "descricao": "Uma das coleções mais famosas de Balmont, resumindo a estética do Simbolismo russo através de temas de cosmismo, misticismo e a busca pela beleza transcendental.",
+    "ano": "1903",
+    "link": "https://pt.wikipedia.org/wiki/Konstantin_Balmont",
+    "tags": [
+      "Poesia",
+      "Simbolismo",
+      "Misticismo",
+      "Era de Prata"
+    ]
+  }
+]
