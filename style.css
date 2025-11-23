@@ -248,7 +248,8 @@ article a:hover {
     }
 
     main { /* Estilos para o main em telas menores */
-        padding: 0 1rem; /* Adiciona espaçamento lateral */
+        width: 90%; /* Ajusta a largura para alinhar com o header */
+        padding: 0 1rem; /* Mantém o espaçamento lateral */
     }
 
     article:hover { /* Estilos para o article em telas menores */
@@ -276,6 +277,10 @@ article a:hover {
     div input, /* Estilos para o input e seu placeholder em telas muito pequenas */
     div input::placeholder {
         font-size: 1rem; /* Reduz o tamanho da fonte */
+    }
+
+    main {
+        width: 100%; /* Ocupa 100% da largura em telas muito pequenas */
     }
 
     article h2 {
